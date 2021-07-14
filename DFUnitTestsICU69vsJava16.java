@@ -1,3 +1,5 @@
+//Copyright © 2021 i18ncraig for jsi18n.com
+
 import com.ibm.icu.text.DateFormat;
 import com.ibm.icu.util.ULocale;
 
